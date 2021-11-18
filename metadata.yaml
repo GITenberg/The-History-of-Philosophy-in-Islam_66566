@@ -1,0 +1,32 @@
+_repo: The-History-of-Philosophy-in-Islam_66566
+_version: 0.0.1
+alternative_title: Geschichte der Philosophie im Islam. English
+contributor:
+  translator:
+    agent_name: Jones, Edward R.
+    gutenberg_agent_id: '53862'
+    url: http://www.gutenberg.org/2009/agents/53862
+creator:
+  author:
+    agent_name: Boer, T. J. de (Tjitze J.)
+    aliases:
+    - De Boer, T. J. (Tjitze J.)
+    - Boer, Tjitze J. de
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '47989'
+    url: http://www.gutenberg.org/2009/agents/47989
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islamic philosophy -- History'
+- !lcc 'B'
+- GITenberg
+title: The History of Philosophy in Islam
+url: http://www.gutenberg.org/ebooks/66566

@@ -6,6 +6,9 @@ contributor:
     agent_name: Jones, Edward R.
     gutenberg_agent_id: '53862'
     url: http://www.gutenberg.org/2009/agents/53862
+covers:
+- cover_type: archival
+  image_path: 66566-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Boer, T. J. de (Tjitze J.)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '47989'
     url: http://www.gutenberg.org/2009/agents/47989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66566#The-History-of-Philosophy-in-Islam
 gutenberg_issued: '2021-10-17'
 identifiers:
   gutenberg: '66566'
